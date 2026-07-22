@@ -1,6 +1,6 @@
 # Mori More - Premium Matcha Cake & Tea
  
- <img src="images/screenshot.jpg" alt="project">
+https://ru-dipity.github.io/Mori-More/
 
 Mori More is a premium matcha café and artisanal tea shop based in Karlsruhe, Germany. This website showcases our handcrafted matcha cakes, specialty teas, and our dedicated team.
 
